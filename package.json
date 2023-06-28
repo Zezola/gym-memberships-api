@@ -1,0 +1,20 @@
+{
+  "name": "gym-memberships-api",
+  "version": "1.0.0",
+  "description": "REST API to perform crud operations in a mongodb database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zezola/gym-memberships-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zezola/gym-memberships-api/issues"
+  },
+  "homepage": "https://github.com/Zezola/gym-memberships-api#readme"
+}
