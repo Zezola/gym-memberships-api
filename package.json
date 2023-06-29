@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Zezola/gym-memberships-api/issues"
   },
-  "homepage": "https://github.com/Zezola/gym-memberships-api#readme"
+  "homepage": "https://github.com/Zezola/gym-memberships-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
