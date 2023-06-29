@@ -1,6 +1,6 @@
 # gym-memberships-api
 
-Perform CRUD operations in a mongodb database simulating a mermberships control system for a gym. 
+Perform CRUD operations in database simulating a membership system for a gym
 
 To run the project, you can: <br/>
 1 - clone this repository<br/>
