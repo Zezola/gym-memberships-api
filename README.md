@@ -7,4 +7,4 @@ To run the project, you can: <br/>
 2 - go inside the folder where it was created<br/>
     in your terminal you can do it with<br/>
     cd gym-memberships-api<br/>
-3 - run node start
+3 - run "node start" via terminal
